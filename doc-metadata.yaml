@@ -1,0 +1,18 @@
+---
+title: "Cross Disciplinary Team Work: Building an e-learning platform for Chainge"
+documentclass: extarticle
+subtitle: > 
+  Course code: KICRDTW1KU, 
+  Course Manager: Gitte Bang Stald, 
+  Hand-in Date: [Insert Date], 
+  Page count: [Insert page count]
+author:
+- Emil Bartholdy (emba@itu.dk)
+- Emma Amalie Als (eals@itu.dk)
+- Thor Lindberg (mawl@itu.dk)
+geometry: margin=1in
+toc: true
+numbersections: true
+fontsize: 12pt
+linestretch: 1.2
+...

@@ -1,0 +1,1 @@
+pandoc -F pandoc-crossref --csl apa-6.csl --citeproc --metadata-file doc-metadata.yaml -o report.pdf report.md appendices/app*.md
