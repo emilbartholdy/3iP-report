@@ -1,2 +1,1 @@
-pandoc -F pandoc-crossref --csl apa-6.csl --citeproc --metadata-file doc-metadata.yaml -o report.pdf report.md appendices/app*.md
-pandoc -F pandoc-crossref --csl apa-6.csl --citeproc --metadata-file doc-metadata.yaml -o report.tex report.md appendices/app*.md && pdflatex report.tex -draftmode
+pandoc -F pandoc-crossref --csl apa-6.csl --citeproc --metadata-file doc-metadata.yaml -o report.pdf chapters/chapter*.md appendices/app*.md
