@@ -5,12 +5,12 @@ subtitle: >
   Course code: KICRDTW1KU, 
   Course Manager: Gitte Bang Stald, 
   Hand-in Date: \today, 
-  Page count: **ADD THIS LATER**
+  Page count: 10,1 pages
 author:
-- Emil Bartholdy (emba@itu.dk)
-- Emma Amalie Als (eals@itu.dk)
-- Thor Lindberg (mawl@itu.dk)
-- Hartwig Linde Jensen (harj@itu.dk)
+- "Emil Bartholdy (emba@itu.dk) Student no.: 15867"
+- "Emma Amalie Als (eals@itu.dk) Student no.: 18835"
+- "Thor Lindberg (mawl@itu.dk) Student no.: 17858"
+- "Hartwig Linde Jensen (harj@itu.dk) Student no.: 18860"
 header-includes: |
 # Comment this out when including graphics
 #   \usepackage[draft]{graphicx}

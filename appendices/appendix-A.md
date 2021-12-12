@@ -1,6 +1,6 @@
-## Appendix A: Interviews {#sec_interviews}
+## Appendix A: Interviews {#sec:app_interviews}
 
-### Interview 1 - Chainge Drivers - Klaus {#sec:interview_1}
+### Interview 1 - Chainge Drivers {#sec:interview_1}
 
 Duration: ~20-30 minuttes
 
@@ -10,7 +10,6 @@ We are four students from ITU. We are collaborating with Chainge to enable highe
 
 | Question | Answer |
 | --- | --- |
-| What is your name? | Klaus |
 | How old are you? | 29 |
 | How long have you worked at Chainge? | Startede i går. Var til samtale i sidste uge. |
 | Why did you choose to apply for this job? | Fleksibilitet, kan selv vælge vagter. Penge. Fik interesse i Chainge fordi de afspejler hans værdier, f.eks. at få dieselbiler ud af byen. Der var fokus på den “tredobbelte bundlinje”, aka økonomi, miljø, socialt. |
@@ -40,7 +39,7 @@ We are four students from ITU. We are collaborating with Chainge to enable highe
 | Would you recommend the job to a friend? | Ja, ud fra arbejdsmiljøet |
 | If you should quit your job, what would be the reason? | Når måske sit limit hvis vejret er for lort |
 
-### Interview 2 - Chainge Drivers - Asger {#sec:interview_2}
+### Interview 2 - Chainge Drivers {#sec:interview_2}
 
 Duration: ~20-30 minuttes
 
@@ -50,7 +49,6 @@ We are four students from ITU. We are collaborating with Chainge to enable highe
 
 | Question | Answer |
 | --- | --- |
-| What is your name? | Asger |
 | How old are you? | 24 |
 | How long have you worked at Chainge? | Two weeks - six weeks  |
 | Why did you choose to apply for this job? | X  |
@@ -172,7 +170,7 @@ If you should quit your job, what would be the reason?
 - Moving to a new city which he is
 - Seasonal changes - would prefer to drive during spring and summer
 
-### Interview 3 - Chainge Drivers - Johanne {#sec:interview_3}
+### Interview 3 - Chainge Drivers {#sec:interview_3}
 
 Duration: ~20-30 minuttes
 
@@ -182,7 +180,6 @@ We are four students from ITU. We are collaborating with Chainge to enable highe
 
 | Question | Answer |
 | --- | --- |
-| What is your name? | Johanne |
 | How old are you? | 21 |
 | How long have you worked at Chainge? | 30 august |
 | Why did you choose to apply for this job? | Recommended from a friend
@@ -195,7 +192,7 @@ No possibility for uploaded a CV or motivational letter |
 
 How long is a typical work day? (hours)
 
-- Shift from 15-18 but Johanne is not done until 20
+- Shift from 15-18 but is not done until 20
 - Don't know when things are supposed to be delivered
 
 Describe a typical work day...

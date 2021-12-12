@@ -6,13 +6,10 @@ bibliography: [biblio.bib]
 \newpage
 
 # Conclusion {#sec:conclusion}
-The scope of the project was optimising the onboarding process for new Drivers working at Chainge. By exploring the context qualitatively, we uncovered challenges affecting the Drivers. We identified that the onboarding process was unstandardised and unstructured, resulting in relevant information for the new employees being communicated late or not at all.
+The scope of this project is to optimise the onboarding process of new Drivers working at Chainge. By exploring the context qualitatively, we uncovered challenges affecting the Drivers. We identified that the onboarding process was unstandardised and unstructured, resulting in delayed communication of relevant information to new employees.
 
-We utilised the Double Diamond model as a guiding reference throughout the process of exploration, ideation, prototyping and developing the solution. An ideation workshop, based on the collected empirical data, supported us in the decision-making regarding the prototype. The proposed solution is the Trainge platform to promote knowledge sharing and standardised learning. To demonstrate the concept, the digital prototype focuses on the e-learning element within the Trainge platform. The content is primarily videos and other resources that can educate new Drivers and prepare them for the job.
+We modelled our process on Norman's Double Diamond, and used it as a guiding reference when conducting exploration, ideation, prototyping and development of the solution. An ideation workshop was conducted based on our collected empirical data, which supported us in choosing a direction for our prototype. The proposed solution is a Trainge platform that promotes knowledge sharing and standardised learning. To demonstrate this concept, we developed a digital prototype representing the e-learning element of the Trainge platform. Its content is primarily videos and other resources that can educate new Drivers and prepare them for their job.
 
-The proposed solution focuses on the onboarding process but also impacts the business by improving the drop-off rate of deliveries and standardising processes. The implementation of the platform entails organisational change as internal resources could be allocated differently and more effectively.
+The proposed solution focuses on the onboarding process but also impacts the business by aiming to improve the drop-off rate of deliveries and standardising processes. The implementation of the platform entails organisational change, as internal resources can be allocated differently and more effectively.
 
-The overall goal of the project has been to support Chainge's business in offering sustainable delivery and the proposed solution is a part of Chainge's journey. 
-
-* *Research question 1*: What challenges affect the Drivers in the onboarding process at Chainge?
-* *Research question 2*: How might we improve the onboarding process to make it more efficient for the Drivers and Chainge?
+The overall goal of the project has been to support Chainge's business in offering sustainable delivery, and the proposed solution supports Chainge in their journey.
